@@ -70,19 +70,6 @@ The project uses the CIFAR-100 dataset containing:
 - 20 coarse categories
 
 Image size: 32×32 RGB
-
----
-
-## Project Structure
-
-```text
-CIFAR100-Object-Recognition/
-│
-├── CIFAR100_Object_Recognition.ipynb
-├── README.md
-└── results/
-```
-
 ---
 
 ## Author
